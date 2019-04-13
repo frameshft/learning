@@ -43,6 +43,7 @@ export default {
     '@nuxtjs/axios',
     // Doc:https://github.com/nuxt-community/modules/tree/master/packages/bulma
     '@nuxtjs/bulma',
+    '@nuxtjs/dotenv'
   ],
   /*
   ** Axios module configuration
