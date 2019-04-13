@@ -1,6 +1,10 @@
 <template>
     <section class="section">
         <div class="container">
+            <div class="container">
+                <a class="button is-large is-danger">Change My Color</a>
+                <p>&nbsp;</p>
+            </div>
             <div class="columns is-multiline">
                 <div
                     class="column is-one-quarter"
