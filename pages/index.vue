@@ -42,3 +42,9 @@
         },
     };
 </script>
+<style lang="scss" scoped>
+.section {
+    // Style resources allow to use variables and functions in vue files
+    background: $danger;
+}
+</style>

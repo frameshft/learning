@@ -1,0 +1,9 @@
+@charset "utf-8";
+// Define variables here
+$danger: #232323;
+$primary: red;
+
+// Bulma is imported and variables defined above would be used instead of default
+// You can make the styles even more optimized by explicitly importing only the components
+// you need, instead of importing the whole Bulma framework
+@import '~bulma/bulma';
